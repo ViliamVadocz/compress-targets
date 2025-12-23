@@ -1,0 +1,10 @@
+[package]
+name = "compress-targets"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitvec = "1.0.1"
+fast-tak = "0.4.2"
+takparse = "0.6.0"
+thiserror = "2.0.17"
